@@ -1,5 +1,6 @@
 # Snowflake Data Platform
 
+<img width="1232" height="707" alt="Snowflake Data Governance Flow" src="https://github.com/user-attachments/assets/b2d5a098-8246-43f9-98d5-2c8e8a5c8f5d" />
 본 프로젝트는 **Snowflake를 중심으로 한 Data Platform을 직접 설계·구축**하며,  
 실무 환경에서 활용 가능한 데이터 수집 · 정제 · 집계 · 자동화 · 거버넌스 전 과정을  
 **Medallion Architecture(Bronze · Silver · Gold)** 기반으로 구현한 프로젝트
@@ -45,7 +46,7 @@ Snowflake의 구조와 데이터 처리 기능을 **이론이 아닌 실제 구�
 
 ---
 
-## 📂 프로젝트 디렉터리 구조
+## 프로젝트 디렉터리 구조
 
 ```plaintext
 snowflake-data-platform/
