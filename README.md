@@ -1,6 +1,6 @@
 # Snowflake Data Platform
 
-<img width="1000" height="600" alt="Snowflake Data Governance Flow" src="https://github.com/user-attachments/assets/b2d5a098-8246-43f9-98d5-2c8e8a5c8f5d" />
+<img width="1345" height="574" alt="Snowflake Data Platform" src="https://github.com/user-attachments/assets/101ca161-e206-42dc-97f3-51ca4e349a73" />
 
 본 프로젝트는 **Snowflake를 중심으로 한 Data Platform을 직접 설계·구축**하며,  
 실무 환경에서 활용 가능한 데이터 수집 · 정제 · 집계 · 자동화 · 거버넌스 전 과정을  
