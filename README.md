@@ -1,4 +1,4 @@
-# Snowflake Data Platform
+# 클라우드 기반 제조 품질 데이터 분석 플랫폼
 
 <img width="1345" height="574" alt="Snowflake Data Platform" src="https://github.com/user-attachments/assets/101ca161-e206-42dc-97f3-51ca4e349a73" />
 
