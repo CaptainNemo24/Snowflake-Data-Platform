@@ -30,6 +30,7 @@ Snowflake의 구조와 데이터 처리 기능을 **이론이 아닌 실제 구�
   **End-to-End 자동화 데이터 파이프라인 구축**
 - ROLE, Object Tagging, MASKING POLICY, ROW ACCESS POLICY 등을 활용한  
   **데이터 거버넌스 및 접근 제어 체계 수립**
+- **Tableau**를 활용한 Gold 테이블 시각화
 
 ---
 
@@ -43,7 +44,7 @@ Snowflake의 구조와 데이터 처리 기능을 **이론이 아닌 실제 구�
   - External Stage  
   - Bronze / Silver / Gold Layer  
   - Automated Pipeline  
-  - Data Governance  
+  - Data Governance
 
 ---
 
@@ -111,6 +112,8 @@ Snowflake Data Platform 구축 **전 과정**을 문서화한
 - 클라우드 외부 스토리지 연동
 - 자동화 파이프라인 구현
 - 데이터 거버넌스 적용
+- Tableau를 활용한 Gold 테이블 시각화
+  - https://public.tableau.com/app/profile/.15366561/viz/SnowflakeGoldLayerKPI/FCT_JOB_STATUS_SUMMARY#1
 
 ---
 
